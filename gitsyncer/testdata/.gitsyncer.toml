@@ -1,0 +1,11 @@
+[[tasks]]
+
+[tasks.src]
+url = "https://source-url"
+username = "username"
+password = "password"
+
+[tasks.dst]
+url = "https://dest-url"
+username = "username"
+password = "password"
